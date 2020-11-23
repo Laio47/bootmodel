@@ -1,0 +1,38 @@
+
+
+
+body{
+
+background-color:#260c3f ;
+color:white;
+/*#5D478B #551A8B  #8B008B*/
+}
+
+
+.separar{
+
+   padding-left: 5%;
+   padding-right: 5%;
+   margin-top: 5%;
+   /*display:flex;*/
+ /*  text-align:center;
+	display:flex;
+	  width: 50%;
+	  float: left;*/
+
+}
+
+.titCr01{
+    background-color: #0dc780;
+    color: #f3e27e ;
+    }
+
+    hr{
+        width:95%; border-width: 10px; border-color:red; 
+    }
+    
+    .titulo01{
+     background-color: aqua;
+    }
+    
+   
